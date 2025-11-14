@@ -1,12 +1,39 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+# GenDev
 
-# Run and deploy your AI Studio app
+**An AI-powered project** that generates a complete website from a simple text prompt (examples: calculator, tic‑tac‑toe, to‑do app) — and also runs it inside your local environment.
 
-This contains everything you need to run your app locally.
+> **Note:** The backend uses Google Gemini API (Flash 2.5) to generate HTML, CSS, and JS code.
 
-View your app in AI Studio: https://ai.studio/apps/temp/1
+---
+
+## 🔥 Features
+
+* Generate full websites (HTML, CSS, JS) using a single text prompt.
+* Run the generated project instantly or download it as a ZIP.
+* Built‑in template support: Calculator, Tic‑Tac‑Toe, To‑Do List, Landing Page, Contact Form.
+* Accepts custom prompts — AI generates the exact layout & styling you ask for.
+* Backend powered by Gemini (Flash 2.5) for fast & structured code generation.
+
+---
+
+## 🧭 Architecture
+
+```
+[Client (React/Vanilla)]  <-->  [Backend (Node/Express)]  <-->  [Gemini API (Flash 2.5)]
+```
+
+* **Client:** UI for prompt input, preview window, run & download buttons.
+* **Backend:** Handles prompts, sends requests to Gemini, processes responses, stores generated files.
+* **Gemini API:** Generates HTML/CSS/JS from natural language prompts.
+
+---
+
+
+
+---
+
+
+
 
 ## Run Locally
 
