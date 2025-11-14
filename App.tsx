@@ -117,7 +117,7 @@ const App: React.FC = () => {
       {/* Footer */}
       <footer className="py-8 mt-auto border-t border-slate-900">
         <div className="max-w-5xl mx-auto px-4 text-center text-slate-600 text-sm">
-          <p>Powered by Sanskar Verma GenDev @2025</p>
+          <p>Powered by Sanskar Verma GenAI Series @2025</p>
         </div>
       </footer>
     </div>
