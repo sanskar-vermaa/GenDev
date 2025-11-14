@@ -6,6 +6,11 @@
 
 ---
 
+<img width="1850" height="886" alt="image" src="https://github.com/user-attachments/assets/2683aa9c-928b-4c0d-92e7-8e99928340c5" />
+<img width="1580" height="886" alt="image" src="https://github.com/user-attachments/assets/f332e3d2-8b5f-4307-8fb0-534302cf7b1f" />
+
+
+
 ## 🔥 Features
 
 * Generate full websites (HTML, CSS, JS) using a single text prompt.
